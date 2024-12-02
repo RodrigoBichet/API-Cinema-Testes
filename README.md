@@ -54,6 +54,10 @@ Olá! Meu nome é Rodrigo Leitzke Bichet e este repositório pertence a última 
 
 [Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/K6)
 
+## Agradecimentos
+
+Queria agradecer a todos que participaram dessa jornada proporcionada pela Compass UOL e ao Scrum Master Celso, a todo pessoal da minha turma em especial aqueles que me ajudaram, participaram de grupos e trabalhos como o Matheus, Ruan, Talisson, Ting, Vinicius, Viviane, William e da outra turma também como o Alisson, Julio, Malek e ao Gabriel que foi bem presente durante esse programa.
+
 ## Vamos Juntos Nessa Jornada!
 
 Acompanhe o progresso e participe dessa jornada de aprendizado e crescimento. Estou aberto a feedbacks e sugestões para melhorar continuamente.
