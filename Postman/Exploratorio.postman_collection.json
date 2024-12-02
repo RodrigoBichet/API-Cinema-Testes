@@ -1,0 +1,175 @@
+{
+	"info": {
+		"_postman_id": "5c424f20-ebc5-4f0c-b628-ad5b590e004e",
+		"name": "Exploratorio",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37980747",
+		"_collection_link": "https://rodrigobichet-2039.postman.co/workspace/API-Cinema~c744889b-b003-4a1e-bbc1-b9f1e501c130/collection/37980747-5c424f20-ebc5-4f0c-b628-ad5b590e004e?action=share&source=collection_link&creator=37980747"
+	},
+	"item": [
+		{
+			"name": "Movies",
+			"item": [
+				{
+					"name": "GET Movies",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							}
+						],
+						"url": {
+							"raw": "{{baseURL}}/movies",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"movies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Movies",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"teste123\",\r\n  \"description\": \"teste descricao\",\r\n  \"launchdate\": \"2024-11-26\",\r\n  \"showtimes\": [\r\n    \"teste\"\r\n  ]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseURL}}/movies",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"movies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Movie",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseURL}}/movies/m4nC1vENI36l9H5U",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"movies",
+								"m4nC1vENI36l9H5U"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT Movie",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"teste321\",\r\n  \"description\": \"teste descricao1\",\r\n  \"launchdate\": \"2024-11-26\",\r\n  \"showtimes\": [\r\n    \"teste\"\r\n  ]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseURL}}/movies/UZHLEl1PMxvyfKTE",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"movies",
+								"UZHLEl1PMxvyfKTE"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE Movie",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{baseURL}}/movies/UZHLEl1PMxvyfKTE",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"movies",
+								"UZHLEl1PMxvyfKTE"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Ticket",
+			"item": [
+				{
+					"name": "GET Ticket",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseURL}}/tickets",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"tickets"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Ticket",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"movieId\": \"m4nC1vENI36l9H5U\",\r\n  \"userId\": \"dwadaf3wf3\",\r\n  \"seatNumber\": 2,\r\n  \"price\": 20,\r\n  \"showtime\": \"2024-11-26\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseURL}}/tickets",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"tickets"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
