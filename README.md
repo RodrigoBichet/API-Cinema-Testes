@@ -14,25 +14,25 @@ Olá! Meu nome é Rodrigo Leitzke Bichet e este repositório pertence a última 
 
 ### User Story da [API] Filmes
 
-[Link para User Story da [API] Filmes aqui!](LINK)
+[Link para User Story da [API] Filmes aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/blob/main/UserStory/UserStoryFilme.md)
 
 ### User Story da [API] Ingressos
 
-[Link para User Story da [API] Ingressos aqui!](LINK)
+[Link para User Story da [API] Ingressos aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/blob/main/UserStory/UserStoryIngresso.md)
 
 ### Planejamento de Teste da [API] Filmes
 
-[Link para Planejamento de Teste da [API] Filmes aqui!](LINK)
+[Link para Planejamento de Teste da [API] Filmes aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/blob/main/PlanejamentosDeTeste/PlanejamentoDeTesteFilme.md)
 
 ### Planejamento de Teste da [API] Ingressos
 
-[Link para Planejamento de Teste da [API] Ingressos aqui!](LINK)
+[Link para Planejamento de Teste da [API] Ingressos aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/blob/main/PlanejamentosDeTeste/PlanejamentoDeTesteIngressos.md)
 
 ## Tecnologias utilizadas e suas documentações e configurações de ambiente utilizadas nesse projeto!
 
 ### Documentação da [API]
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/API)
 
 ### Utilização do Mapa Mental
 
@@ -40,19 +40,19 @@ Olá! Meu nome é Rodrigo Leitzke Bichet e este repositório pertence a última 
 
 ### Documentação Postman
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/Postman)
 
 ### Documentação Playwright
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/Playwright)
 
 ### Documentação Allure
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/Playwright)
 
 ### Documentação K6
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/K6)
 
 ## Vamos Juntos Nessa Jornada!
 
