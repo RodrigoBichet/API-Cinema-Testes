@@ -59,3 +59,9 @@
 -   Todas as solicitações deverão ser validadas para garantir integridade e segurança (exemplo: evitar SQL Injection);
 -   Testes executados deverão incluir cenários de erro (ex.: campos inválidos, limites excedidos) e sucesso;
 -   Evidências dos testes deverão estar anexadas ao relatório de validação.
+
+## Requisitos Não Funcionais de Performance:
+
+- A API deve ser capaz de processar pelo menos 50 solicitações de reserva de ingressos por segundo.
+- O tempo médio de resposta para a reserva de um ingresso não deve exceder 300 milissegundos.
+  
