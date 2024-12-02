@@ -90,4 +90,15 @@
 -   A API deve atender às métricas de desempenho definidas nos requisitos;
 -   Todos os testes implementados devem ter evidências claras no repositório.
 
+## Requisitos Não Funcionais de Performance:
+
+- A API deve ser capaz de processar pelo menos 100 solicitações de criação de filmes por segundo.
+- O tempo médio de resposta para a criação de um novo filme não deve exceder 200 milissegundos.
+- A API deve ser capaz de responder a solicitações GET de listagem de filmes em menos de 100 milissegundos.
+- A lista de filmes deve ser paginada, com no máximo 20 filmes por página.
+- A API deve ser capaz de responder a solicitações GET de detalhes de um filme em menos de 50 milissegundos.
+- A API deve ser capaz de processar pelo menos 50 solicitações de atualização de filmes por segundo.
+- O tempo médio de resposta para a atualização dos detalhes de um filme não deve exceder 300 milissegundos.
+- A API deve ser capaz de processar pelo menos 30 solicitações de exclusão de filmes por segundo.
+- O tempo médio de resposta para a exclusão de um filme não deve exceder 400 milissegundos.
 ---
