@@ -32,7 +32,7 @@ Olá! Meu nome é Rodrigo Leitzke Bichet e este repositório pertence a última 
 
 ### Documentação da [API]
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/API)
 
 ### Utilização do Mapa Mental
 
@@ -40,19 +40,19 @@ Olá! Meu nome é Rodrigo Leitzke Bichet e este repositório pertence a última 
 
 ### Documentação Postman
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/Postman)
 
 ### Documentação Playwright
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/Playwright)
 
 ### Documentação Allure
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/Playwright)
 
 ### Documentação K6
 
-[Link para toda documentação aqui!](LINK)
+[Link para toda documentação aqui!](https://github.com/RodrigoBichet/API-Cinema-Testes/tree/tests/K6)
 
 ## Vamos Juntos Nessa Jornada!
 
